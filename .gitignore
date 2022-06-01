@@ -1,9 +1,10 @@
 *-jvsc-*.ipynb
 *.pyc
+settings.json
 UNK*.lmp
 nbpackage
 .DS_store
-
+tmp.traj
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
