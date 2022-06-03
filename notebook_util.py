@@ -13,8 +13,8 @@ def main():
     path = os.path.dirname(__file__)
     sys.path.append(path)
     sys.meta_path.append(NotebookFinder())
-    
-    import ioutils
+    # print(path)
+    # import ioutils
 
 def find_notebook(fullname, path=None):
     """find a notebook, given its fully qualified nameｓxsand an optional path
