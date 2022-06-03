@@ -5,6 +5,7 @@ UNK*.lmp
 nbpackage
 .DS_store
 tmp.traj
+*.data
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
